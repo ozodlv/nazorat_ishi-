@@ -1,0 +1,73 @@
+.scooter{
+    background-image: url(../img/scooter.png);
+    background-size: cover;
+    height: 650px;
+    overflow: hidden;
+}
+
+.scooter-banner-title{
+    color: #fff;
+    padding-top: 153px;
+}
+
+.scooter_banner-title h2{
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 56px;
+    letter-spacing: -2.5px;
+    padding-bottom: 40px;
+    width: 500px;
+}
+
+.scooter_banner-title p{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    font-family: 'Lexend Deca', sans-serif;
+    padding-bottom: 60px;
+    padding-left: 80px;
+    width: 480px;
+}
+
+.scooter-btn{
+    border: 3px solid #FCB72B;
+    text-decoration: none;
+    color: #FCB72B;
+    padding: 14px 39px;
+    margin-left: 80px;
+}
+
+.lines{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 502px;
+    position: relative;
+    top: -140px;
+    left: -170px;
+}
+
+.rounds{
+    display: flex;
+    gap: 24px;
+    position: relative;
+    top: -216px;
+    left: 1111px;
+}
+
+.round1{
+    width: 62px;
+    height: 62px;
+    display: block;
+    border: none;
+    border: 3px solid #fff;
+    border-radius: 50px;
+}
+
+.round2{
+    width: 62px;
+    height: 62px;
+    display: block;
+    background-color: #fff; 
+    border-radius: 50px;
+}
